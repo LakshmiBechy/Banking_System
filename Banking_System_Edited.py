@@ -22,7 +22,6 @@ class Customer:
         print("Rs.{} has been credited to your account.\nYour current balance is: {}".format(amount,self.balance))
 
     def withdraw(self,amount):
-        withdrawal_limit=500
         if amount > self.balance:
             print("Sorry, You have insufficient balance for this transaction")
         else:
