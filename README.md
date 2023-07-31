@@ -18,6 +18,7 @@ The Customer class provides the following methods to facilitate banking operatio
 
 #### Other Functions
 Apart from the Customer class, additional functions are included to enhance the overall user experience:
+
 Create Account Function: This function enables new customers to open bank accounts.
-Login Function: It allows users to access their accounts and perform transactions like depositing, withdrawing, checking account balance, viewing transaction history, 
-and closing accounts if needed. Users can also log out for privacy and security.
+
+Login Function: It allows users to access their accounts and perform transactions like depositing, withdrawing, checking account balance, viewing transaction history, and closing accounts if needed. Users can also log out for privacy and security.
