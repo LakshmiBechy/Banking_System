@@ -1,4 +1,4 @@
-# Python Banking System
+# Banking System Using Python
 
 ## Introduction
 The project aims to replicate a simplified version of a banking system in Python, using by object-oriented programming principles.
